@@ -1,0 +1,12 @@
+ document.write ("************** <br><br>");
+ R = 4;
+ S = Math.PI * R * R;
+ console.log (S);
+ document.write ("Обьем цилиндра с площадью основы 50.26548245743669, радиусом 4 и высотой 20 равен: <br><br>");
+ h = 20;
+ V = S * h;
+ console.log (V);
+ document.write ("--------------------- <br><br>");
+ document.write ("V = 1005.3096491487338 <br><br>");
+ document.write ("--------------------- <br><br>");
+ document.write ("end.");
